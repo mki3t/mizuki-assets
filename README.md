@@ -1,0 +1,2 @@
+# mizuki-assets
+Just PNGs.
